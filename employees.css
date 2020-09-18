@@ -1,0 +1,31 @@
+td, th
+{ 
+border: 3px solid;
+}
+.one
+{background: red;
+}
+.two
+{
+    background:orange;
+}
+.three
+{
+    background:yellow;
+}
+.four
+{
+    background: lightgreen;
+}
+.five
+{
+    background: lightblue;
+}
+.six
+{
+    background: plum;
+}
+.seven
+{ 
+    background: lightpink;
+}
